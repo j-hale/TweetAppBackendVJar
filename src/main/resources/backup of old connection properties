@@ -2,9 +2,9 @@
 # JDBC connection properties
 #
 jdbc.driver=com.mysql.jdbc.Driver
-jdbc.url=jdbc:mysql://tweetappdb2.czq91puodqiz.us-west-1.rds.amazonaws.com:3306/tweet_app_db?useSSL=false
-jdbc.user=admin
-jdbc.password=tweetappdb
+jdbc.url=jdbc:mysql://localhost:3306/tweet_app_db?useSSL=false
+jdbc.user=hbstudent
+jdbc.password=hbstudent
 
 #
 # Connection pool properties
